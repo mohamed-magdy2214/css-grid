@@ -192,7 +192,7 @@ body {
     background-image: url(../images/Investigator.jpg);
     background-size: cover;
     position: relative;
-    transition: 0.4 ease;
+    transition: 0.4s ease;
 }
 .container .content-5::before {
     content: "";
